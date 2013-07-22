@@ -8,7 +8,7 @@ The Lanica Game Development Platform allows Developers, Artists and Game Designe
 
 The Lanica Game Development Platform enables rapid development  to build cross-platform games (iOS and Android)  natively from a single code base.
 
-![image](http://staging-wdpress.lanica.co/wp-content/uploads/2013/07/PlatinoGroupLogo.png)
+![image](http://lanica.co/wp-content/uploads/2013/07/PlatinoGroupLogo.png)
 
 ### Platino™ SDK
 
@@ -21,14 +21,14 @@ To help you understand some fundamental Lanica Platino APIs and coding practices
 #### [API Reference](http://docs.lanica.co/#!/api)
 Platino SDK APIs [link](http://docs.lanica.co/#!/api)
 
-![image](http://staging-wdpress.lanica.co/wp-content/uploads/2013/07/AnimoGroupLogo.png)
+![image](http://lanica.co/wp-content/uploads/2013/07/AnimoGroupLogo.png)
 
 ### Animo™ Design and Developers Tools
 Designers and developers can now work together with Animo tools to rapidly build, prototype, iterate, test and deploy games cross-platform. 
 Coming soon… Stay in touch or sign up for the Prerelease Beta 
 [http://lanica.co/company/about/signup/](http://lanica.co/company/about/signup/)
 
-![image](http://staging-wdpress.lanica.co/wp-content/uploads/2013/07/CosmoGroupLogo.png)
+![image](http://lanica.co/wp-content/uploads/2013/07/CosmoGroupLogo.png)
 
 ### Cosmo™ Cloud Services for Game Developers
 Focus on creating the best fun game mechanics and let Cosmo cloud services handle the heavy lifting, scale the servers, store achievements, manage the leaderboards, capture and show analytics, and add real-time multiplayer capabilities and notifications to your mobile games on both iOS or Android. Coming soon…  Stay in touch or sign up for the Prerelease Beta 
